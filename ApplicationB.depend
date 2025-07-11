@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1751648129 source:e:\coumba\codeblocks\applicationb\appli.c
+	"appliB.h"
+	<time.h>
+
+1751647963 e:\coumba\codeblocks\applicationb\applib.h
+
+1751648426 source:e:\coumba\codeblocks\applicationb\main.c
+	<stdio.h>
+
