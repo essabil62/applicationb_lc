@@ -8,3 +8,15 @@
 1751648426 source:e:\coumba\codeblocks\applicationb\main.c
 	<stdio.h>
 
+1752773968 source:c:\users\libas\onedrive\bureau\licence 1 gl\language c\7-programmation modulaire\applicationb_lc\main.c
+	<stdio.h>
+	"application.h"
+
+1752764995 c:\users\libas\onedrive\bureau\licence 1 gl\language c\7-programmation modulaire\applicationb_lc\application.h
+
+1752773478 source:c:\users\libas\onedrive\bureau\licence 1 gl\language c\7-programmation modulaire\applicationb_lc\application.c
+	<stdio.h>
+	<stdlib.h>
+	"application.h"
+	<time.h>
+
